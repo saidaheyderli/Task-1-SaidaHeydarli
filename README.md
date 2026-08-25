@@ -73,6 +73,4 @@ Nova: Goodbye! Thanks for chatting with Nova. Have a great day!
 - Connect the chatbot to an external AI API
 - Replace fixed rules with a machine-learning model
 
-## Author
 
-Developed for the DecodeLabs Artificial Intelligence Engineer Internship — Project 1.
