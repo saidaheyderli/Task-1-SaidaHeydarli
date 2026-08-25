@@ -1,0 +1,17 @@
+Sample Run
+==========
+
+You: hello
+Nova: Hello! I'm Nova 🤖. How can I help you today?
+
+You: what is your name?
+Nova: My name is Nova. I'm a rule-based AI assistant built with Python.
+
+You: how are you?
+Nova: I'm doing great! Thanks for asking. I'm ready to help.
+
+You: what can you do?
+Nova: I can greet you, answer basic questions, explain how I work, and respond to simple AI and Python topics.
+
+You: bye
+Nova: Goodbye! Thanks for chatting with Nova. Have a great day!
